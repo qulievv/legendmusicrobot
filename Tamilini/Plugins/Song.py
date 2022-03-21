@@ -25,15 +25,11 @@ __HELP__ = """
 """
 
 
-@app.on_message(
-    filters.command(["song", f"song@{BOT_USERNAME}"]) & filters.group
-)
+@app.on_message(filters.command(["song", f"song@{BOT_USERNAME}"]))
 @PermissionCheck
 async def play(_, message: Message):
     if message.sender_chat:
-        return await message.reply_text(
-            "You're an __Anonymous Admin__ in this Chat Group!\nRevert back to User Account From Admin Rights."
-        )
+        return await message.reply_text("You're an __Anonymous Admin__ in this Chat Group!\nRevert back to User Account From Admin Rights.")
     await message.delete()
     url = get_url(message)
     if url:
