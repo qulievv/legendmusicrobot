@@ -1,4 +1,4 @@
-# Tamilini Music 🎸
+# Raven Music 🎸
 
 ## Give your 💙
 
@@ -34,7 +34,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 - Easy To Use! 😋
 
 ## 🔎 Inline Search Support
-- just type the bot username in any chat, example: "`@TamiliniMusicBot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
+- just type the bot username in any chat, example: "`@LegendMusicRobot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
 
 ### Requirements 📝
 
@@ -91,17 +91,17 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
 
-# Reach Me On Telegram : [🎸𝐓𝐚𝐦𝐢𝐥𝐢𝐧𝐢 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/TamiliniMusicBot)
+# Reach Me On Telegram : [🎸Raven music🎶](https:t.me/LegendMusicRobot)
 
 ![logo](https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg)
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots) 🤖
+## Made with ❤️ By [RavenBots](https://t.me/IegendMMC) 🤖
 
 # Report Any Error or Help Contact :
 
-<a href="http://t.me/TamilBots"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
+<a href="http://t.me/IegendMMC"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
 
-<a href="http://t.me/TamilSupport"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
+<a href="http://t.me/LegendSup"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
 
 ##### Credits :
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
